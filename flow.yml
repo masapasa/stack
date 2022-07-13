@@ -1,0 +1,4 @@
+jtype: Flow
+executors:
+  - name: indexer
+    uses: jinahub://SimpleIndexer/latest
